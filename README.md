@@ -10,3 +10,7 @@ Player has 7 bullets in the begining and once it runs out he need to reload.
 The interface is also simple, on the bottom there is "Bullets", "Timer" and "Score" label and at the top left corner will appear the "Restart" button when the timer is finished.
 
 The game is not finished yet, it is missing some interface elements, it has some design issues but it is fully functional and playable .
+
+![Screenshot 1](https://github.com/raduistrati/Shooting-Game/blob/master-2/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-06-12%20at%2010.11.11.png?raw=true)
+![Screenshot 2](https://github.com/raduistrati/Shooting-Game/blob/master-2/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-06-12%20at%2010.11.21.png?raw=true)
+![Screenshot 3](https://github.com/raduistrati/Shooting-Game/blob/master-2/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-06-12%20at%2010.11.30.png?raw=true)
