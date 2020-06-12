@@ -1,6 +1,6 @@
 # Shooting-Game
-Portfolio project made by me during "Hacking With Swift" iOS App development course.
-Course: https://www.hackingwithswift.com
+Portfolio project made by me during "Hacking With Swift" iOS App development course.</br>
+Course: https://www.hackingwithswift.com</br>
 Mentor: Paul Hudson
 
 This is a simple game for iPhone where the player needs to shoot as many green targets as possible to get the highest score.
